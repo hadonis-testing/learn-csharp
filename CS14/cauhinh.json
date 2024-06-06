@@ -1,0 +1,6 @@
+{
+  "MyServiceOptions": {
+    "data1": "Hoc dependency injection",
+    "data2": 1234
+  }
+}
