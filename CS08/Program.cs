@@ -1,5 +1,4 @@
-﻿
-namespace CS08
+﻿namespace CS08
 {
     internal class Program
     {
