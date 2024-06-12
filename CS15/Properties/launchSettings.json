@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CS15": {
+      "commandName": "Project",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}
